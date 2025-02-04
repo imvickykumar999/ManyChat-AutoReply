@@ -1,4 +1,4 @@
-># `ManyChat AutoReply`
+># `Say Hi`
 >
 >### [Facebook Automation](https://www.messenger.com/t/336062740301100)
 >![flow_2025_02_04_101508](https://github.com/user-attachments/assets/12440ff5-71d2-45a7-b284-8c664911b134)
